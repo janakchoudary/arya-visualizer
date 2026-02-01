@@ -25,7 +25,7 @@ A high-performance, aesthetically pleasing 3D-style particle visualizer for Pyth
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/AryaVisualizer.git
+git clone https://github.com/janakchoudary/AryaVisualizer.git
 cd AryaVisualizer
 pip install -r requirements.txt
 ```
