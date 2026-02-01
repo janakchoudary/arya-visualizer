@@ -35,10 +35,10 @@ pip install -r requirements.txt
 ### Basic Integration with LiveKit
 
 ```python
-from visualizer import AryaVisualizer
+from visualizer import arya-visualizer
 
 # Initialize (standard 720p at 24fps)
-viz = AryaVisualizer(width=1280, height=720, fps=24)
+viz = arya-visualizer(width=1280, height=720, fps=24)
 
 # Start the rendering loop
 viz.start()
