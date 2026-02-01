@@ -26,7 +26,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/janakchoudary/arya-visualizer.git
-cd AryaVisualizer
+cd arya-visualizer
 pip install -r requirements.txt
 ```
 
