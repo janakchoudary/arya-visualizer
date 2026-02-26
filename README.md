@@ -74,4 +74,4 @@ You can customize colors, particle count, and speeds by modifying the constants 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*created with ❤️ by Janak Choudary*
+*created with ❤️ by Janak Choudhary*
